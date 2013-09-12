@@ -23,5 +23,5 @@
   "dependencies": {
     "ar-drone": "0.2.0",
     "jquery": "1.8.3"
-  },
+  }
 }
