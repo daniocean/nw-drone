@@ -11,6 +11,7 @@ lib-cov
 *.sublime-project
 *.sublime-workspace
 
+.c9revisions
 pids
 logs
 results
