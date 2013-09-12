@@ -8,6 +8,8 @@ lib-cov
 *.gz
 *.exe
 *.dll
+*.sublime-project
+*.sublime-workspace
 
 pids
 logs
