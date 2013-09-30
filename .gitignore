@@ -8,11 +8,13 @@ lib-cov
 *.gz
 *.exe
 *.dll
+*.app
 *.pak
 *.sublime-project
 *.sublime-workspace
 
 .c9revisions
+.idea
 pids
 logs
 results
